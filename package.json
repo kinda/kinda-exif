@@ -5,8 +5,8 @@
 	"author" : "Daniel Leinich <leinich@gmx.net>",
     "keywords" : ["exif", "image", "jpeg", "jpg", "tiff", "makernotes", "gps"],
 	"main" : "./lib/exif",
-	"repository" : {
-		"type" : "git",
-		"url" : "http://github.com/gomfunkel/node-exif.git"
-	}
+	"repository": {
+    "type": "git",
+    "url": "git://github.com/kinda/node-exif"
+  },
 }
